@@ -25,7 +25,7 @@ SECRET_KEY = 'n$grcz@5w(*m@p=ww1+=u+y63wz6%+349o7nxdadk%1#+q&5fo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["olgaarch.pythonanywhere.com"]
 
 
 # Application definition
